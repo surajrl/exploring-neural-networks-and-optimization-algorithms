@@ -1,1 +1,1 @@
-# cifar10-nn
+# Exploring Neural Networks and Optimization Algorithms
